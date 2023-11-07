@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Tic-Tac-Toe React](https://card-counter-score.netlify.app/)
+- Live Site URL: [Tic-Tac-Toe React](https://tic-tac-toe-gamereact.netlify.app/)
 
 ## My process
 
